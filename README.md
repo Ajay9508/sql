@@ -10,4 +10,5 @@ SQL question available in leedcode.
 | [0176-second-highest-salary](https://github.com/Ajay9508/sql/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Ajay9508/sql/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Ajay9508/sql/tree/master/0178-rank-scores) |
+| [0184-department-highest-salary](https://github.com/Ajay9508/sql/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
