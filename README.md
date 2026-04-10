@@ -23,4 +23,5 @@ SQL question available in leedcode.
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ajay9508/sql/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Ajay9508/sql/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Ajay9508/sql/tree/master/0620-not-boring-movies) |
+| [1193-monthly-transactions-i](https://github.com/Ajay9508/sql/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
