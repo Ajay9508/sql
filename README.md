@@ -35,5 +35,6 @@ SQL question available in leedcode.
 | [1193-monthly-transactions-i](https://github.com/Ajay9508/sql/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/Ajay9508/sql/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ajay9508/sql/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ajay9508/sql/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Ajay9508/sql/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
