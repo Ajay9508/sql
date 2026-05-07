@@ -20,6 +20,7 @@ SQL question available in leedcode.
 | [0197-rising-temperature](https://github.com/Ajay9508/sql/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/Ajay9508/sql/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/Ajay9508/sql/tree/master/0511-game-play-analysis-i) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Ajay9508/sql/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Ajay9508/sql/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Ajay9508/sql/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ajay9508/sql/tree/master/0586-customer-placing-the-largest-number-of-orders) |
