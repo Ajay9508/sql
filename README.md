@@ -39,4 +39,5 @@ SQL question available in leedcode.
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ajay9508/sql/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/Ajay9508/sql/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Ajay9508/sql/tree/master/1683-invalid-tweets) |
+| [1934-confirmation-rate](https://github.com/Ajay9508/sql/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
