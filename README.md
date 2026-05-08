@@ -43,4 +43,24 @@ SQL question available in leedcode.
 | [1661-average-time-of-process-per-machine](https://github.com/Ajay9508/sql/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Ajay9508/sql/tree/master/1683-invalid-tweets) |
 | [1934-confirmation-rate](https://github.com/Ajay9508/sql/tree/master/1934-confirmation-rate) |
+## Array
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/sql/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Hash Table
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/sql/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Math
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/sql/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/sql/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/sql/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
