@@ -52,6 +52,7 @@ SQL question available in leedcode.
 ## Array
 |  |
 | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/Ajay9508/sql/tree/master/2553-separate-the-digits-in-an-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/sql/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Hash Table
 |  |
@@ -69,4 +70,8 @@ SQL question available in leedcode.
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/sql/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/Ajay9508/sql/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
