@@ -66,6 +66,7 @@ SQL question available in leedcode.
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Ajay9508/sql/tree/master/0367-valid-perfect-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ajay9508/sql/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Breadth-First Search
 |  |
@@ -79,4 +80,8 @@ SQL question available in leedcode.
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ajay9508/sql/tree/master/2553-separate-the-digits-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Ajay9508/sql/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
